@@ -56,13 +56,13 @@ async def change_name_auto():
                 hsym = time_emoji_symb[(int(hour)%12)*2+shift]
                 # await client1.send_message('me', hsym)
                 for_fun = random.random() 
-                if for_fun < 0.10:
-                    last_name = 专业白嫖户
-                elif for_fun < 0.30:
-                    last_name = 博客:zky.gs
+                if for_fun < 0.20:
+                    last_name = '%s时%s分 %s' % (hour, minu, hsym)
+                elif for_fun < 0.40:
+                    last_name = blog:zky.gs
                 elif for_fun < 0.60:
                     last_name = gv:9802926222
-                elif for_fun < 0.90:
+                elif for_fun < 0.80:
                     last_name = '%s' % dizzy
                 else:
                     last_name = '%s' % cake
