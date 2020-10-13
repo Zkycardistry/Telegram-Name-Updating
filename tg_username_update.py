@@ -57,11 +57,11 @@ async def change_name_auto():
                 # await client1.send_message('me', hsym)
                 for_fun = random.random() 
                 if for_fun < 0.10:
-                    last_name = '%s时%s分 %s' % (hour, minu, hsym)
+                    last_name = 专业白嫖户
                 elif for_fun < 0.30:
-                    last_name = '%s:%s %s %s %s' % (hour, minu, p, abbwn, hsym)
+                    last_name = 博客→_→zky.gs
                 elif for_fun < 0.60:
-                    last_name = '%s:%s %s UTC+8 %s' % (hour, minu, p, hsym)
+                    last_name = gv→_→9802926222
                 elif for_fun < 0.90:
                     last_name = '%s' % dizzy
                 else:
