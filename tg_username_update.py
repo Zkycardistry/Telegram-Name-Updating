@@ -59,9 +59,9 @@ async def change_name_auto():
                 if for_fun < 0.10:
                     last_name = 专业白嫖户
                 elif for_fun < 0.30:
-                    last_name = 博客→_→zky.gs
+                    last_name = 博客:zky.gs
                 elif for_fun < 0.60:
-                    last_name = gv→_→9802926222
+                    last_name = gv:9802926222
                 elif for_fun < 0.90:
                     last_name = '%s' % dizzy
                 else:
