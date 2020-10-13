@@ -14,7 +14,7 @@ lastname实时更新效果：<a href="https://t.me/CodyDoby">Cody</a>
 
 ## 1. 下载Demo小程序到VPS上
 
-<code>git clone https://github.com/xyou365/Telegram-Name-Updating.git</code>\
+<code>git clone https://github.com/zkysimon/Telegram-Name-Updating.git</code>\
 <code>cd Telegram-Name-Updating</code>
 
 ## 2. 安装telethon
@@ -28,5 +28,3 @@ lastname实时更新效果：<a href="https://t.me/CodyDoby">Cody</a>
 ## 4. api认证和用户登陆
 
 根据提示输入api_id和api_hash。接着输入手机号和验证码，如果账号开启了二次验，证根据提示再输入二次验证的密码。最后看到 It works! 表明成功了。 默认的是每30秒钟按照一定概率更新一次lastname到特定模式。
-
-欢迎<a href="https://www.gfan.loan/?page_id=281/">加入我们</a>（备用：<a href="https://t.me/joinchat/AAAAAEt8nhUy2w8R_ikizQ">Telegram群组</a>）。
