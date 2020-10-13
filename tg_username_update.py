@@ -59,9 +59,9 @@ async def change_name_auto():
                 if for_fun < 0.20:
                     last_name = '%s时%s分 %s' % (hour, minu, hsym)
                 elif for_fun < 0.40:
-                    last_name = blog zky.gs
+                    last_name = 'blog:zky.gs'
                 elif for_fun < 0.60:
-                    last_name = gv 9802926222
+                    last_name = 'gv:9802926222'
                 elif for_fun < 0.80:
                     last_name = '%s' % dizzy
                 else:
