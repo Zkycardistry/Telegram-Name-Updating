@@ -1,4 +1,4 @@
-# Telegram-Name-Updating
+# tgnameupdate
 
 Update last name of Telegram user every 30 seconds. 
 
@@ -14,8 +14,8 @@ lastname实时更新效果：<a href="https://t.me/zkysimon">知命</a>
 
 ## 1. 下载Demo小程序到VPS上
 
-<code>git clone https://github.com/zkysimon/Telegram-Name-Updating.git</code>\
-<code>cd Telegram-Name-Updating</code>
+<code>git clone https://github.com/zkysimon/tgnameupdate.git</code>\
+<code>cd tgnameupdate</code>
 
 ## 2. 安装telethon
 
@@ -23,7 +23,7 @@ lastname实时更新效果：<a href="https://t.me/zkysimon">知命</a>
 
 ## 3. 运行Demo小程序
 
-<code>python3 tg_username_update.py</code>
+<code>python3 tgnameupdate.py</code>
 
 ## 4. api认证和用户登陆
 
